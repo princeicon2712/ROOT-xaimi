@@ -4,7 +4,9 @@
 ``` 2. boot.img in magick pach now. ```
 
 
-## platfrom tool in flash now magick pach file
+## platfrom tool in flash now magick pach file 
+
+    cmd
 
     fastboot devices 
 
