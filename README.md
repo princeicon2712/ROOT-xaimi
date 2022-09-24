@@ -4,7 +4,7 @@
 ``` 2. যদি magick aps install করার পরে aps এর মধ্যে remdisk:No থাকে তাখলে boot.img পেচ করতে হবে আর যদি yes থাকে তাখলে recovery.img পেচ করতে হবে ```
 
 
-## platfrom tool in flash now magick pach file 
+## platfrom tool or bugjaeger.apk Android flash now magick pach file 
 
     cmd
 
