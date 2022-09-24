@@ -1,7 +1,7 @@
 # ROOT-xaiomi
 ``` 1. xaiomi flash room file dowonlod. ```
 
-``` 2. boot.img in magick pach now. ```
+``` 2. যদি magick aps install করার পরে aps এর মধ্যে remdisk:No থাকে তাখলে boot.img পেচ করতে হবে আর যদি yes থাকে তাখলে recovery.img পেচ করতে হবে ```
 
 
 ## platfrom tool in flash now magick pach file 
