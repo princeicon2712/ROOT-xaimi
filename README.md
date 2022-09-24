@@ -12,4 +12,4 @@
 
     fastboot flash boot >twrp pat gulu
     
-    fastboot rebbot
+    fastboot reboot
