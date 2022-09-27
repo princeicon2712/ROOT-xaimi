@@ -12,6 +12,6 @@
 
     fastboot devices 
 
-    fastboot flash boot >twrp/pach pat gulu
+    fastboot flash boot >magick pach file/pach pat gulu
     
     fastboot reboot
