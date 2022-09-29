@@ -13,5 +13,5 @@
     fastboot devices 
 
     fastboot flash boot >magick pach file/pach pat gulu
-    
+    fastboot flash recovery twrp.img
     fastboot reboot
